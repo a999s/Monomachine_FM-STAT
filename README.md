@@ -1,2 +1,2 @@
 # Monomachine_FM-STAT
- FM+STAT algorithm form Monomachine
+ FM+STAT algorithm form Elektron's Monomachine
